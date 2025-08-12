@@ -58,7 +58,7 @@ These metrics demonstrate a strong predictive capability for weather-related dis
 
 4. **Deployment:**  
    The best model (Random Forest) deployed as an interactive web app using [Gradio].
-## Screenshots
+
 
 
 
