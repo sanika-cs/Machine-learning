@@ -6,6 +6,11 @@ This project aims to predict disease prognosis based on weather conditions and p
 
 ## Dataset
 
+
+The dataset used for this project is sourced from Kaggle:  
+[Weather and Disease Dataset - Kaggle](https://www.kaggle.com/datasets/orvile/weather-related-disease-prediction-dataset)  
+
+---
 The dataset consists of the following features:
 
 - **Demographic and Weather Data:**  
@@ -28,6 +33,16 @@ The dataset consists of the following features:
 
 Random Forest was selected as the best performing model after tuning.
 
+## Model Performance
+
+The best performing model (Random Forest with hyperparameter tuning) achieved the following metrics on the test set:
+
+- **Accuracy:** 0.9930  
+- **Precision:** 0.9933  
+- **Recall:** 0.9930  
+- **F1-Score:** 0.9930  
+
+These metrics demonstrate a strong predictive capability for weather-related disease prognosis.
 ---
 
 ## Project Workflow
